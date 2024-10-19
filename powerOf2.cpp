@@ -1,5 +1,4 @@
 //LEETCODE PROBLEM 231 
-//NOTE : Problem 326 and 342 follows the same logic 
 
 #include <iostream> 
 using namespace std;
